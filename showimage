@@ -1,0 +1,2 @@
+im = imread ("image1.tif");
+imshow (im)
